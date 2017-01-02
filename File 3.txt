@@ -1,5 +1,5 @@
 10 INPUT "What is your name: "; U$
-20 PRINT "Hello "; U$
+20 PRINT "Hello World"; U$
 30 INPUT "How many stars do you want: "; N
 40 S$ = ""
 50 FOR I = 1 TO N
